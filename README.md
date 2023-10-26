@@ -1,1 +1,2 @@
 # Image_Editing_Tool
+The "Image Editing Tool" is a Python project built using the tkinter library. This tool allows users to perform various operations on images. Users can load an image into the application, utilize a pen tool to draw with a customizable color palette, erase their drawings using a clear button, and apply image filters to manipulate the image. These filters include options to blur, convert the image to black and white, sharpen it, and make it smoother. This user-friendly tool provides a versatile environment for editing and enhancing images with ease.
